@@ -10,7 +10,7 @@
 
 <dir>
 <title>Kids Boxsets</title>
-<link>https://github.com/abaddonplugin/sparkystoons/blob/master/xmls/kidsboxsets.xml</link>
+<link>https://raw.githubusercontent.com/abaddonplugin/sparkystoons/master/xmls/kidsboxsets.xml</link>
 </dir>
 
 <dir>
@@ -25,7 +25,7 @@
 
 <dir>
 <title>Movies</title>
-<link>https://github.com/abaddonplugin/sparkystoons/blob/master/xmls/movies.xml</link>
+<link>https://raw.githubusercontent.com/abaddonplugin/sparkystoons/master/xmls/movies.xml</link>
 </dir>
 
 <dir>
