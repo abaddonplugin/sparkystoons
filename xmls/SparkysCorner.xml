@@ -1,0 +1,23 @@
+<dir>
+<title>Disney</title>
+<trakt>https://api.trakt.tv/users/neilspark553130/lists/disney/items</trakt>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Pixar</title>
+<trakt>https://api.trakt.tv/users/neilspark553130/lists/pixar-films/items</trakt>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Kidz Movies</title>
+<trakt>https://api.trakt.tv/users/neilspark553130/lists/kidz-movies/items</trakt>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Christmas Movies</title>
+<trakt>https://api.trakt.tv/users/neilspark553130/lists/christmas-movies/items</trakt>
+<thumbnail></thumbnail>
+</dir>
