@@ -4,15 +4,18 @@
 </dir>
 
 <dir>
-<title>Trakt Popular Movies</title>  <trakt>https://api.trakt.tv/movies/popular</trakt>
+<title>Trakt Popular Movies</title>  
+<trakt>https://api.trakt.tv/movies/popular</trakt>
 </dir>
 
 <dir>
-<title>Trakt Movie Watchlist</title> <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+<title>Trakt Movie Watchlist</title> 
+<trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
 </dir>
 
 <dir>
-<title>Trakt Movie Collection</title> <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+<title>Trakt Movie Collection</title> 
+<trakt>https://api.trakt.tv/sync/collection/movies</trakt>
 </dir>
 
 <dir>
