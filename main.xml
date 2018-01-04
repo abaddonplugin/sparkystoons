@@ -1,0 +1,56 @@
+<dir>
+<title>Search Trakt</title>
+<trakt>search</trakt>
+</dir>
+
+<dir>
+<title>Search TMDB</title>
+<tmdb>search</tmdb>
+</dir>
+
+<dir>
+<title>Kids Boxsets</title>
+<link>https://github.com/abaddonplugin/sparkystoons/blob/master/xmls/kidsboxsets.xml</link>
+</dir>
+
+<dir>
+<title>Kids Catchup TV</title>
+<link>https://raw.githubusercontent.com/abaddonplugin/sparkystoons/master/xmls/kidscatchuptv.xml</link>
+</dir>
+
+<dir>
+<title>Kids Live TV</title>
+<link>https://raw.githubusercontent.com/abaddonplugin/sparkystoons/master/xmls/kidslivetv.xml</link>
+</dir>
+
+<dir>
+<title>Movies</title>
+<link>https://github.com/abaddonplugin/sparkystoons/blob/master/xmls/movies.xml</link>
+</dir>
+
+<dir>
+<title>TV</title>
+<link>https://raw.githubusercontent.com/abaddonplugin/sparkystoons/master/xmls/tv.xml</link>
+</dir>
+
+<dir>
+<title>Networks</title>
+<link>https://raw.githubusercontent.com/abaddonplugin/sparkystoons/master/xmls/networks.xml</link>
+</dir>
+
+<dir>
+<title>Production</title>
+<link>https://raw.githubusercontent.com/abaddonplugin/sparkystoons/master/xmls/production.xml</link>
+</dir>
+
+<dir>
+<title>Sparkys Corner</title>
+<link>https://raw.githubusercontent.com/abaddonplugin/sparkystoons/master/xmls/SparkysCorner.xml</link>
+</dir>
+
+<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.jenplugin/?action=developer</link>
+<thumbnail></thumbnail>
+<summary>Testings</summary>
+</plugin>
