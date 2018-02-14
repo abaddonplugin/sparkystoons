@@ -9,6 +9,11 @@
 </dir>
 
 <dir>
+<title>Search IMDB</title>
+<imdburl>search</imdburl>
+</dir>
+
+<dir>
 <title>Kids Boxsets</title>
 <link>https://raw.githubusercontent.com/abaddonplugin/sparkystoons/master/xmls/kidsboxsets.xml</link>
 </dir>
