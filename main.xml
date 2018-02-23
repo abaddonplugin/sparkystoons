@@ -10,7 +10,7 @@
 
 <dir>
 <title>Search IMDB</title>
-<imdburl>search</imdburl>
+<imdburl>searchboth</imdburl>
 </dir>
 
 <dir>
