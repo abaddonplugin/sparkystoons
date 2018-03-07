@@ -1,3 +1,10 @@
+<plugin>
+<name>[COLOR red]Real Debrid Resolveurl Login[/COLOR]</name>
+<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+<thumbnail>http://koditips.com/wp-content/uploads/real-debrid-addon.png</thumbnail>
+<fanart></fanart>
+</plugin>
+
 <dir>
 <title>Search Trakt</title>
 <trakt>search</trakt>
