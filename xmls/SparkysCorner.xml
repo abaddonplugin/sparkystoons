@@ -21,3 +21,9 @@
 <trakt>https://api.trakt.tv/users/neilspark553130/lists/dreamworks/items</trakt>
 <thumbnail></thumbnail>
 </dir>
+
+<dir>
+<title>Sparky's Fave TV Shows </title>
+<trakt>https://api.trakt.tv/users/neilspark553130/lists/sparky-s-fave-tv-shows/items</trakt>
+<thumbnail></thumbnail>
+</dir>
